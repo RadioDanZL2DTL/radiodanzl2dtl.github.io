@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello World! My name is Daniel and I am an amateur radio operator and 3D Printing enthusiast from Wellington, New Zealand
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+My amateur radio callsigns are ZL2DTL and ZL4YOTA, I can be heard regularly on 7.100 MHz and on National System repeaters. 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[radiodanzl2dtl@gmail.com](mailto:radiodanzl2dtl@gmail.com)
