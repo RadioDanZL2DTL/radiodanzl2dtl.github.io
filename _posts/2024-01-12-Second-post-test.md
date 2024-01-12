@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Second test post!
+title: Testing a different editor for posting mobile
 published: true
 ---
+Hello World from prose.io editor mobile. Going to test images in the next one, you will be able to see my 3D Printer and HF transceiver. 
 
-CQ CQ CQ TEST CQ TEST DE ZL2DTL CQ CQ CQ
+73 for now de ZL2DTL
